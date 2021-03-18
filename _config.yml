@@ -1,6 +1,6 @@
 # Site settings
-title: Portfolio
-description: A blog about lorem ipsum dolor sit amet
+title: Attar Portfolio
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://attarsinghgill.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
